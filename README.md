@@ -1,2 +1,2 @@
-# WorkoutSleeve
-Project built by Team Arcis in Smart India Hackathon, Hardware Edition - July 2019. Uses Machine learning and Raspberry Pi to detect, classify and measure the accuracy of unconventional exercises. Project won 1st place nationwide.
+# arcissih2019
+The Prototype ML code that was used for winning in the Smart India Hackathon 2019. The Repository includes the Files that were used for pre-training a Model and a custom code that counts the number of steps. 
